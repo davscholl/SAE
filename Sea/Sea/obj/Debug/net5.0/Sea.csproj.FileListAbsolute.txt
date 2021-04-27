@@ -1,0 +1,16 @@
+C:\Users\David\source\repos\Sea\Sea\bin\Debug\net5.0\Sea.exe
+C:\Users\David\source\repos\Sea\Sea\bin\Debug\net5.0\Sea.deps.json
+C:\Users\David\source\repos\Sea\Sea\bin\Debug\net5.0\Sea.runtimeconfig.json
+C:\Users\David\source\repos\Sea\Sea\bin\Debug\net5.0\Sea.runtimeconfig.dev.json
+C:\Users\David\source\repos\Sea\Sea\bin\Debug\net5.0\Sea.dll
+C:\Users\David\source\repos\Sea\Sea\bin\Debug\net5.0\ref\Sea.dll
+C:\Users\David\source\repos\Sea\Sea\bin\Debug\net5.0\Sea.pdb
+C:\Users\David\source\repos\Sea\Sea\obj\Debug\net5.0\Sea.csprojAssemblyReference.cache
+C:\Users\David\source\repos\Sea\Sea\obj\Debug\net5.0\Sea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\Sea\Sea\obj\Debug\net5.0\Sea.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\Sea\Sea\obj\Debug\net5.0\Sea.AssemblyInfo.cs
+C:\Users\David\source\repos\Sea\Sea\obj\Debug\net5.0\Sea.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\Sea\Sea\obj\Debug\net5.0\Sea.dll
+C:\Users\David\source\repos\Sea\Sea\obj\Debug\net5.0\ref\Sea.dll
+C:\Users\David\source\repos\Sea\Sea\obj\Debug\net5.0\Sea.pdb
+C:\Users\David\source\repos\Sea\Sea\obj\Debug\net5.0\Sea.genruntimeconfig.cache
