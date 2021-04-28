@@ -124,6 +124,7 @@ namespace Sea
             }
             else if(wHours>180)
             {
+                //nur in einzelne Variablen aufgeteilt für besser Übersichtlichkeit
                 double b = getHigherValuebyProcent(getMWagewithInput(overtime), firstZins);     //berechent gehahlt für Überstunden, und erhört diese um den Prozentsatz firstZins
                 double a = getMWagewithInput(160);                                              //berechenen des Gehaltes für die ersten 160 arbeitszeit
                 double c = getHigherValuebyProcent(getMWagewithInput(overtime180), firstZins);  //berechent gehahlt für Überstunden, und erhört diese um den Prozentsatz firstZins schritt ein, laut aufgabe und lösung des lehres soll erst um 10% erhört und dann nochmal um 5% erhöht werden bei mehr 180 stunden arbeitszeit
